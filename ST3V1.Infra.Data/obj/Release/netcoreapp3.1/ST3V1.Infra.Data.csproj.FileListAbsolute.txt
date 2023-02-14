@@ -1,0 +1,16 @@
+C:\Adriano\Projetos\ST3V1\ST3V1.Infra.Data\bin\Release\netcoreapp3.1\ST3V1.Infra.Data.deps.json
+C:\Adriano\Projetos\ST3V1\ST3V1.Infra.Data\bin\Release\netcoreapp3.1\ST3V1.Infra.Data.runtimeconfig.json
+C:\Adriano\Projetos\ST3V1\ST3V1.Infra.Data\bin\Release\netcoreapp3.1\ST3V1.Infra.Data.runtimeconfig.dev.json
+C:\Adriano\Projetos\ST3V1\ST3V1.Infra.Data\bin\Release\netcoreapp3.1\ST3V1.Infra.Data.dll
+C:\Adriano\Projetos\ST3V1\ST3V1.Infra.Data\bin\Release\netcoreapp3.1\ST3V1.Infra.Data.pdb
+C:\Adriano\Projetos\ST3V1\ST3V1.Infra.Data\bin\Release\netcoreapp3.1\ST3V1.Domain.dll
+C:\Adriano\Projetos\ST3V1\ST3V1.Infra.Data\bin\Release\netcoreapp3.1\ST3V1.Domain.pdb
+C:\Adriano\Projetos\ST3V1\ST3V1.Infra.Data\obj\Release\netcoreapp3.1\ST3V1.Infra.Data.csproj.AssemblyReference.cache
+C:\Adriano\Projetos\ST3V1\ST3V1.Infra.Data\obj\Release\netcoreapp3.1\ST3V1.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Adriano\Projetos\ST3V1\ST3V1.Infra.Data\obj\Release\netcoreapp3.1\ST3V1.Infra.Data.AssemblyInfoInputs.cache
+C:\Adriano\Projetos\ST3V1\ST3V1.Infra.Data\obj\Release\netcoreapp3.1\ST3V1.Infra.Data.AssemblyInfo.cs
+C:\Adriano\Projetos\ST3V1\ST3V1.Infra.Data\obj\Release\netcoreapp3.1\ST3V1.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Adriano\Projetos\ST3V1\ST3V1.Infra.Data\obj\Release\netcoreapp3.1\ST3V1.Infra.Data.csproj.CopyComplete
+C:\Adriano\Projetos\ST3V1\ST3V1.Infra.Data\obj\Release\netcoreapp3.1\ST3V1.Infra.Data.dll
+C:\Adriano\Projetos\ST3V1\ST3V1.Infra.Data\obj\Release\netcoreapp3.1\ST3V1.Infra.Data.pdb
+C:\Adriano\Projetos\ST3V1\ST3V1.Infra.Data\obj\Release\netcoreapp3.1\ST3V1.Infra.Data.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Adriano\Projetos\ST3V1\ST3V1.Domain\bin\Debug\netcoreapp3.1\ST3V1.Domain.deps.json
+C:\Adriano\Projetos\ST3V1\ST3V1.Domain\bin\Debug\netcoreapp3.1\ST3V1.Domain.dll
+C:\Adriano\Projetos\ST3V1\ST3V1.Domain\bin\Debug\netcoreapp3.1\ST3V1.Domain.pdb
+C:\Adriano\Projetos\ST3V1\ST3V1.Domain\obj\Debug\netcoreapp3.1\ST3V1.Domain.csproj.AssemblyReference.cache
+C:\Adriano\Projetos\ST3V1\ST3V1.Domain\obj\Debug\netcoreapp3.1\ST3V1.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Adriano\Projetos\ST3V1\ST3V1.Domain\obj\Debug\netcoreapp3.1\ST3V1.Domain.AssemblyInfoInputs.cache
+C:\Adriano\Projetos\ST3V1\ST3V1.Domain\obj\Debug\netcoreapp3.1\ST3V1.Domain.AssemblyInfo.cs
+C:\Adriano\Projetos\ST3V1\ST3V1.Domain\obj\Debug\netcoreapp3.1\ST3V1.Domain.csproj.CoreCompileInputs.cache
+C:\Adriano\Projetos\ST3V1\ST3V1.Domain\obj\Debug\netcoreapp3.1\ST3V1.Domain.dll
+C:\Adriano\Projetos\ST3V1\ST3V1.Domain\obj\Debug\netcoreapp3.1\ST3V1.Domain.pdb

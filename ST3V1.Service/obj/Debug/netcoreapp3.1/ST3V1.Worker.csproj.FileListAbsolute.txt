@@ -1,0 +1,17 @@
+C:\Adriano\Projetos\ST3V1\ST3V1.Service\bin\Debug\netcoreapp3.1\ST3V1.Worker.deps.json
+C:\Adriano\Projetos\ST3V1\ST3V1.Service\bin\Debug\netcoreapp3.1\ST3V1.Worker.dll
+C:\Adriano\Projetos\ST3V1\ST3V1.Service\bin\Debug\netcoreapp3.1\ST3V1.Worker.pdb
+C:\Adriano\Projetos\ST3V1\ST3V1.Service\bin\Debug\netcoreapp3.1\ST3V1.Domain.dll
+C:\Adriano\Projetos\ST3V1\ST3V1.Service\bin\Debug\netcoreapp3.1\ST3V1.Infra.Data.dll
+C:\Adriano\Projetos\ST3V1\ST3V1.Service\bin\Debug\netcoreapp3.1\ST3V1.Infra.IoC.dll
+C:\Adriano\Projetos\ST3V1\ST3V1.Service\bin\Debug\netcoreapp3.1\ST3V1.Infra.IoC.pdb
+C:\Adriano\Projetos\ST3V1\ST3V1.Service\bin\Debug\netcoreapp3.1\ST3V1.Domain.pdb
+C:\Adriano\Projetos\ST3V1\ST3V1.Service\bin\Debug\netcoreapp3.1\ST3V1.Infra.Data.pdb
+C:\Adriano\Projetos\ST3V1\ST3V1.Service\obj\Debug\netcoreapp3.1\ST3V1.Worker.csproj.AssemblyReference.cache
+C:\Adriano\Projetos\ST3V1\ST3V1.Service\obj\Debug\netcoreapp3.1\ST3V1.Worker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Adriano\Projetos\ST3V1\ST3V1.Service\obj\Debug\netcoreapp3.1\ST3V1.Worker.AssemblyInfoInputs.cache
+C:\Adriano\Projetos\ST3V1\ST3V1.Service\obj\Debug\netcoreapp3.1\ST3V1.Worker.AssemblyInfo.cs
+C:\Adriano\Projetos\ST3V1\ST3V1.Service\obj\Debug\netcoreapp3.1\ST3V1.Worker.csproj.CoreCompileInputs.cache
+C:\Adriano\Projetos\ST3V1\ST3V1.Service\obj\Debug\netcoreapp3.1\ST3V1.Worker.csproj.CopyComplete
+C:\Adriano\Projetos\ST3V1\ST3V1.Service\obj\Debug\netcoreapp3.1\ST3V1.Worker.dll
+C:\Adriano\Projetos\ST3V1\ST3V1.Service\obj\Debug\netcoreapp3.1\ST3V1.Worker.pdb

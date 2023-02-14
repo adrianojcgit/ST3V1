@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ST3V1.Infra.IoC\ST3V1.Infra.IoC.csproj" />
+    <ProjectReference Include="..\ST3V1.Service\ST3V1.Worker.csproj" />
+  </ItemGroup>
+
+
+</Project>
